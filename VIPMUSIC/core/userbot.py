@@ -61,10 +61,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("deathking_worldd")
-                await self.one.join_chat("deathmsg_bombing")
-                await self.one.join_chat("deathking_botworld")
-                await self.one.join_chat("DeathxBotz")
+                await self.one.join_chat("CRAZY_ADDA")
+                await self.one.join_chat("CRAZY_ADDA")
+                await self.one.join_chat("CRAZY_ADDA")
+                await self.one.join_chat("CRAZY_ADDA")
             except:
                 pass
             assistants.append(1)
@@ -85,10 +85,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("deathking_worldd")
-                await self.two.join_chat("deathmsg_bombing")
-                await self.two.join_chat("deathking_botworld")
-                await self.two.join_chat("DeathxBotz")
+                await self.two.join_chat("CRAZY_ADDA")
+                await self.two.join_chat("CRAZY_ADDA")
+                await self.two.join_chat("CRAZY_ADDAd")
+                await self.two.join_chat("CRAZY_ADDA")
             except:
                 pass
             assistants.append(2)
@@ -108,10 +108,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("deathking_worldd")
-                await self.three.join_chat("deathmsg_bombing")
-                await self.three.join_chat("deathking_botworld")
-                await self.three.join_chat("DeathxBotz")
+                await self.three.join_chat("CRAZY_ADDA")
+                await self.three.join_chat("CRAZY_ADDA")
+                await self.three.join_chat("CRAZY_ADDA")
+                await self.three.join_chat("CRAZY_ADDA")
             except:
                 pass
             assistants.append(3)
@@ -131,10 +131,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("deathking_worldd")
-                await self.four.join_chat("deathmsg_bombing")
-                await self.four.join_chat("deathking_botworld")
-                await self.four.join_chat("DeathxBotz")
+                await self.four.join_chat("CRAZY_ADDA")
+                await self.four.join_chat("CRAZY_ADDA")
+                await self.four.join_chat("CRAZY_ADDA")
+                await self.four.join_chat("CRAZY_ADDA")
             except:
                 pass
             assistants.append(4)
@@ -154,10 +154,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("deathking_botworld")
-                await self.five.join_chat("deathmsg_bombing")
-                await self.five.join_chat("deathking_worldd")
-                await self.five.join_chat("DeathxBotz")
+                await self.five.join_chat("CRAZY_ADDA")
+                await self.five.join_chat("CRAZY_ADDA")
+                await self.five.join_chat("CRAZY_ADDA")
+                await self.five.join_chat("CRAZY_ADDA")
             except:
                 pass
             assistants.append(5)
