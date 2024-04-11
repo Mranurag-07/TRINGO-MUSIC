@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Bhadvaheroku/VIP-MUSIC",
+    "https://github.com/Usrbotbot07/VIP-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -113,7 +113,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/84819fc115cb0eff32b2b.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/87e50e35d627b6cfae8ab.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/84819fc115cb0eff32b2b.jpg"
