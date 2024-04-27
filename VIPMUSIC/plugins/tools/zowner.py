@@ -15,13 +15,13 @@ app.on_message(
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://mallucampaign.in/images/img_1709192610.jpg",
+        photo=f"https://telegra.ph/file/7f09ea6c1fe33651a8ab2.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/Bhadvaheroku/VIP-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", photo=f"https://telegra.ph/file/dc78739dfe4f9a26bb3ae.jpg")
                 ]
             ]
         ),
@@ -32,13 +32,13 @@ async def help(client: Client, message: Message):
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://mallucampaign.in/images/img_1709192610.jpg",
+        photo=f"https://telegra.ph/file/7f09ea6c1fe33651a8ab2.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/Bhadvaheroku/VIP-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", photo=f"https://telegra.ph/file/dc78739dfe4f9a26bb3ae.jpg")
                 ]
             ]
         ),
@@ -49,13 +49,13 @@ async def help(client: Client, message: Message):
     & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://mallucampaign.in/images/img_1709192610.jpg",
+        photo=f"https://telegra.ph/file/7f09ea6c1fe33651a8ab2.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/Bhadvaheroku/VIP-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", photo=f"https://telegra.ph/file/dc78739dfe4f9a26bb3ae.jpg")
                 ]
             ]
         ),
