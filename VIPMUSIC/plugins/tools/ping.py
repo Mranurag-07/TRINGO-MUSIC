@@ -35,23 +35,23 @@ async def make_carbon(code):
 @app.on_message(filters.command("ping", prefixes=["/", "!", "%", ",", "", ".", "@", "#"]) & ~BANNED_USERS)
 @language
 async def ping_com(client, message: Message, _):
-    PING_IMG_URL = "https://telegra.ph/file/37b57c6aaaa793bba055a.jpg"
+    PING_IMG_URL = "https://telegra.ph/file/7f09ea6c1fe33651a8ab2.jpg"
     captionss = "**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ.**"
     response = await message.reply_photo(PING_IMG_URL, caption=(captionss))
     await asyncio.sleep(1)
-    await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ...**")
+    await response.edit_caption("**🥀WAIT TriGo...**")
     await asyncio.sleep(1)
-    await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ.**")
+    await response.edit_caption("**🥀AA RHA HAI RUKO.**")
     await asyncio.sleep(1)
-    await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ..**")
+    await response.edit_caption("**🥀 WAITING YAARO..**")
     await asyncio.sleep(1.5)
     await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ...**")
     await asyncio.sleep(2)
     await response.edit_caption("**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ....**")
     await asyncio.sleep(2)
-    await response.edit_caption("**📡sʏsᴛᴇᴍ ᴅᴀᴛᴀ ᴀɴᴀʟʏsᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ !**")
+    await response.edit_caption("**📡TriGO ᴀɴᴀʟʏsᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ !**")
     await asyncio.sleep(3)
-    await response.edit_caption("**📩sᴇɴᴅɪɴɢ sʏsᴛᴇᴍ ᴀɴᴀʟʏsᴇᴅ ᴅᴀᴛᴀ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...**")
+    await response.edit_caption("**📩sᴇɴᴅɪɴɢ TriGO ᴀɴᴀʟʏsᴇᴅ ᴅᴀᴛᴀ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...**")
     start = datetime.now()
     pytgping = await VIP.ping()
     UP, CPU, RAM, DISK = await bot_sys_stats()
@@ -71,10 +71,10 @@ async def ping_com(client, message: Message, _):
         ],
         [
             InlineKeyboardButton(
-                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/deathking_botworld",
+                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/TeamTriGOhelpcenter",
             ),
             InlineKeyboardButton(
-                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/DeathxBotz",
+                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/trigo_help",
             )
         ],
         [
